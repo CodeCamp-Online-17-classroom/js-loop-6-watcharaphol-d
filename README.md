@@ -1,2 +1,2 @@
-# js-lab-44
-### Lab44 Loop: Lab5
+# js-lab-45
+### Lab45 Loop: Lab6
